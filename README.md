@@ -1,8 +1,8 @@
 # Hello, World! 🌍
 
-I'm **NEGAN NGUYEN** - not the villain from "The Walking Dead", but a **DATA ANALYST** who's equally fierce when it comes to wrangling data! 🧟‍♂️📊
+I'm **NEGAN NGUYEN** - not the villain from "The Walking Dead", but a **DATA GUY** who's equally fierce when it comes to wrangling data! 🧟‍♂️📊
 
-🚀 **Currently Open to Opportunities!** Looking to channel my skills as a **Data Engineer** and **Data Analyst**. If you need someone who can transform raw data into meaningful insights (or just chat about the latest TV shows), hit me up!
+🚀 **Currently Open to Opportunities!** Looking to channel my skills as a **Data Role**. If you need someone who can transform raw data into meaningful insights (or just chat about the latest TV shows), hit me up!
 
 ## 📞 How to Reach Me:
 - Carrier pigeon: Just kidding! 🐦
